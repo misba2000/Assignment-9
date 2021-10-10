@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+
+ul{
+    list-style: none;
+    background-color: black;
+   position: sticky;
+   bottom: 0;
+}
+.li{
+    
+    
+    cursor: pointer;
+    color: gold;
+    font-size: 20px;
+    padding: 10px;
+    
+    display: inline-block;
+    }
+    
+    
+h1{
+    font-size: 40px;
+}
+p{
+    font-size: 30px;
+}
